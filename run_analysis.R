@@ -15,9 +15,6 @@
 # Change to my working directory (commented out for assignment submission)
 # setwd("C:/Users/Ellume/Git/datasciencecoursera/getdata/Assignment")
 
-# Require dplyr package
-require("dplyr")
-
 # Read in features and activity labels
 features = read.table("./UCI HAR Dataset/features.txt")
 activity.labels = read.table("./UCI HAR Dataset/activity_labels.txt")
