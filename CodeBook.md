@@ -10,9 +10,11 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Three factor variables are included in the tidy.data.txt table:
 
-subject: This is the number associated with the subject
-dataset: Indicates if the measurement was part of the TRAIN or TEST datasets
-activity: Indicates the activity for the measurement
+subject: This is the number associated with the subject.
+
+dataset: Indicates if the measurement was part of the TRAIN or TEST datasets.
+
+activity: Indicates the activity for the measurement.
 
 *Further variable descriptions obtained from features_info.txt which is included in the data set*
 
