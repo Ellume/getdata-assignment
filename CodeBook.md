@@ -60,4 +60,4 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 
 The complete list of variables of each feature vector is available in 'features.txt'
 
-
+The tidy.data.txt file contains the average of each variable for each activity and each subject.
